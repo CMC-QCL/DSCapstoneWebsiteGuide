@@ -1,0 +1,9 @@
+# Adding Clients and Projects
+
+You will have to go into projects tab make a clients page and a project page
+
+You will have to use Divi and copy another client page or projects and edit it
+
+Make sure to add project to client's page and Project's page, clients should be automatically added to clients page.
+
+

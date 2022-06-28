@@ -1,0 +1,38 @@
+# Overview
+
+Claremont McKenna College Data Science Capstone Program
+
+Overview:      
+This program is an opportunity to partner with Claremont McKenna College (CMC) through a structured clinic course in data science. Groups of students under the guidance of faculty advisors will be working with client liaisons on cleaning, querying, analyzing, and modeling data for businesses, non-profit organizations, and public agencies. Participating clients will get much needed data projects off the ground while establishing relationship with the College by assisting in the training of the next generation of employable undergraduates in data science and data analytics.    
+
+Program Goals:    
+•	To establish ongoing Industry-Academia partnership.  
+•	To help utilize client’s data for data-oriented business development and data-driven decision making.  
+•	To provide a practical, application-oriented learning environment for data science students.  
+•	To develop essential soft skills through professional engagement with industry partners.  
+
+Program Structure:    
+•	Data Science Capstone is a required course for Data Science Major and Sequence (minor):  
+a)	A regular one semester course with letter grade  
+b)	Pre-requisites: Intro to Programming (Python), Foundation of Data Science (R/RStudio), Statistics (R, STATA, or SPSS), two upper-division electives related to data science in their domain areas  
+c)	Possible to continue to the next semester to develop further results with a new group of students  
+•	Team Member Structure:   
+a)	3 to 4 senior and junior students who have completed prerequisites and related electives   
+b)	1 or 2 faculty advisors in the client’s domain areas  
+c)	1 or 2 client organization liaisons  
+
+Commitment of Students:  
+•	A Statement of Work (SoW)* detailing the intended goals, methodology, and deliverables will be created for client approval.  
+•	A final presentation and a final report along with all deliverables (codes, algorithms, instruments, etc.) will be delivered to each client at the end of the semester.  
+•	All members involved in the program adhere to the agreement** (Memorandum of Understanding) on data confidentiality, security, privacy, intellectual property and the use of the data and results.    
+
+Commitment of Client Organization:    
+•	Client liaison(s) will meet with the project team weekly or bi-weekly via tele/videoconference to get progress updates, to give guidance, and to exchange/develop ideas about the project.   
+•	Client liaison(s) will participate in two on-campus or online events   
+a)	Capstone Kick-off Day will be held at the beginning of the project; each client liaison presents their organization and proposed project to their respective student team.  
+b)	Capstone Presentation Day will be held at the end of the project; student teams will present their final work to clients.  
+•	A site visit is recommended if the Covid-19 pandemic situation may get better during the semester.  
+•	There are no financial obligations for the client to participate in the CMC Data Science Capstone Program in the Fall 2022. It may become a paid program in the Spring 2023.  
+
+** The MOU ensures confidentiality, privacy, security, the use of data sets and results as well as protected   
+
