@@ -1,0 +1,62 @@
+# Projects page
+
+## Goal: 
+
+To be able to add projects and clients to the projects page as soon as the project or client page is created. This needs to be automated.   
+  
+## Past attempts: 
+
+Tried to hide/show using jquery functions, yet realized that this does not achieve the overall goal of automatically adding the clients and projects to the projects page.
+
+First set of code can be found:  
+ 1. Click Dashboard  
+ 2. Click Divi   
+ 3. Click Theme Options  
+ 4. In the menu of divi options click Integration  
+ 5. In the Add ```code section to the <head> of your blog``` was this javascript  
+
+```html 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script>
+        $(document).ready(function(){
+            $(".post-status-display").change(function(){
+                var url1 = "https://sites.cmc.edu/dscapstone/wp-admin/"+this.value;
+                var settings = { 
+                  "async": true,
+                  "crossDomain": true,
+                  "url": url1,
+                  "method": "GET",
+                  "headers": {
+                   	"PRIVATE-TOKEN": "<your token>"
+                  }
+                }
+            });
+        });
+ </script>
+
+<script>
+	window.addEventListener("pageshow", myFunction); // run myFunction every the page was loaded
+
+	function myFunction() {
+		var x = document.getElementById('post-776');
+		if (x.style.display === "none") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none";
+		}
+	}
+>
+</script>
+```
+This code is trying to hide/show the function and the get function from jquery.
+
+## Projects webpage
+
+On the projects page at the top while in admin setting you will click the button ```Enable Visual Builder`` and go down to where the to the first section in the page that is blue and click the ```+```
+
+Next click the button ```Add from library```. This will open a new pop up with all the templates. Click on ```Working on Automatic v2`` and the latest version of accordion of projects will show up on the page.
+
+Make sure to save. 
+
+
